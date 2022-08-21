@@ -1,0 +1,14 @@
+[
+	{
+		"id": 1,
+		"imeIprezime": "Marija Dimitrijevic"
+	},
+	{
+		"id" : 2,
+		"imeIprezime" : "Marko Markovic"
+	},
+	{
+		"id": 3,
+		"imeIprezime" : "Pera Peric"
+	}
+]
