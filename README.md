@@ -1,4 +1,4 @@
 # ajax-json-domaci
 
 
-vezba async-await funkcije, promisa i ajax
+practice async-await function, promisw and ajax
