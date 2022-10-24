@@ -1,4 +1,4 @@
 # ajax-json-domaci
 
 
-practice async-await function, promisw and ajax
+practice async-await function, promise and ajax
